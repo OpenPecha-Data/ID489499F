@@ -1,9 +1,10 @@
-id: opecha:P000513
+id: P000513
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG5761
   title: བོད་ཀྱི་དེབ་ཐེར་དཔྱིད་ཀྱི་རྒྱལ་མོའི་གླུ་དབྱངས་
-  volume:
+  author: ''
+  volumes:
     9d5af2fa9e554ecc91faf626778888db:
       image_group_id: I1KG10661
       title: Volume 1 of rig 'dzin 'ja' tshon snying po'i gter chos yongs rdzogs bka'
@@ -18,7 +19,6 @@ source_metadata:
         dgyes pa'i bshes gnyen sogs/
       volume_number: 2
       total_pages: 314
-  author: ''
 ebook_metadata:
   title: བོད་ཀྱི་དེབ་ཐེར་དཔྱིད་ཀྱི་རྒྱལ་མོའི་གླུ་དབྱངས་
   author: ''
