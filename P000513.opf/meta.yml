@@ -1,7 +1,7 @@
 id: P000513
 initial_creation_type: ocr
 created_at: 24/03/2020
-last_modified_at: 24/11/2021
+last_modified_at: 2021-12-16 15:43:49.868784
 source_metadata:
   id: bdr:W1KG5761
   title: བོད་ཀྱི་དེབ་ཐེར་དཔྱིད་ཀྱི་རྒྱལ་མོའི་གླུ་དབྱངས་
@@ -21,3 +21,5 @@ source_metadata:
         dgyes pa'i bshes gnyen sogs/
       volume_number: 2
       total_pages: 314
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
